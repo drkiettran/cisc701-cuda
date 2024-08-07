@@ -27,6 +27,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "clock_nvrtc", "clock_nvrtc\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cuda_openMP", "cuda_openMP\cuda_openMP.vcxproj", "{93516C6E-0E8A-4E1E-A1D5-CBDF23650271}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrix_mul", "matrix_mul\matrix_mul.vcxproj", "{9EC5B843-8689-40A1-B337-D67FDD115AE6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrixMulDrv", "matrixMulDrv\matrixMulDrv.vcxproj", "{3EBB3B5F-8920-4249-886C-FDA75C98EC75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +85,14 @@ Global
 		{93516C6E-0E8A-4E1E-A1D5-CBDF23650271}.Debug|x64.Build.0 = Debug|x64
 		{93516C6E-0E8A-4E1E-A1D5-CBDF23650271}.Release|x64.ActiveCfg = Release|x64
 		{93516C6E-0E8A-4E1E-A1D5-CBDF23650271}.Release|x64.Build.0 = Release|x64
+		{9EC5B843-8689-40A1-B337-D67FDD115AE6}.Debug|x64.ActiveCfg = Debug|x64
+		{9EC5B843-8689-40A1-B337-D67FDD115AE6}.Debug|x64.Build.0 = Debug|x64
+		{9EC5B843-8689-40A1-B337-D67FDD115AE6}.Release|x64.ActiveCfg = Release|x64
+		{9EC5B843-8689-40A1-B337-D67FDD115AE6}.Release|x64.Build.0 = Release|x64
+		{3EBB3B5F-8920-4249-886C-FDA75C98EC75}.Debug|x64.ActiveCfg = Debug|x64
+		{3EBB3B5F-8920-4249-886C-FDA75C98EC75}.Debug|x64.Build.0 = Debug|x64
+		{3EBB3B5F-8920-4249-886C-FDA75C98EC75}.Release|x64.ActiveCfg = Release|x64
+		{3EBB3B5F-8920-4249-886C-FDA75C98EC75}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
