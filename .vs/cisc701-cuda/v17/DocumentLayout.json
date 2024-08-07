@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\dev\\cisc701\\cisc701-cuda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C76DFD6-7FB6-4A8E-9CEF-9E562075B0A1}|printf_example\\printf_example.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\printf_example\\printf_sample.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9C76DFD6-7FB6-4A8E-9CEF-9E562075B0A1}|printf_example\\printf_example.vcxproj|solutionrelative:printf_example\\printf_sample.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{2B8BBE8D-EEA0-455B-B4FD-6AFBDAB660A4}|async_api\\async_api.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\async_api\\async_api.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2B8BBE8D-EEA0-455B-B4FD-6AFBDAB660A4}|async_api\\async_api.vcxproj|solutionrelative:async_api\\async_api.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2820E06-24EE-4B0C-B5F4-3875BBE484D8}|c\u002B\u002B11_cuda\\c\u002B\u002B11_cuda.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\c\u002B\u002B11_cuda\\c\u002B\u002B11_cuda.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2820E06-24EE-4B0C-B5F4-3875BBE484D8}|c\u002B\u002B11_cuda\\c\u002B\u002B11_cuda.vcxproj|solutionrelative:c\u002B\u002B11_cuda\\c\u002B\u002B11_cuda.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2820E06-24EE-4B0C-B5F4-3875BBE484D8}|c\u002B\u002B11_cuda\\c\u002B\u002B11_cuda.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\c\u002B\u002B11_cuda\\range.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2820E06-24EE-4B0C-B5F4-3875BBE484D8}|c\u002B\u002B11_cuda\\c\u002B\u002B11_cuda.vcxproj|solutionrelative:c\u002B\u002B11_cuda\\range.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61679C08-D278-4B1B-A49F-2E14D55BF627}|simple_occupancy\\simple_occupancy.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\simple_occupancy\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{61679C08-D278-4B1B-A49F-2E14D55BF627}|simple_occupancy\\simple_occupancy.vcxproj|solutionrelative:simple_occupancy\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "printf_sample.cu",
-              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\printf_example\\printf_sample.cu",
-              "RelativeDocumentMoniker": "printf_example\\printf_sample.cu",
-              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\printf_example\\printf_sample.cu",
-              "RelativeToolTip": "printf_example\\printf_sample.cu",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDYAAAAOAAAA",
+              "Title": "async_api.cu",
+              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\async_api\\async_api.cu",
+              "RelativeDocumentMoniker": "async_api\\async_api.cu",
+              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\async_api\\async_api.cu",
+              "RelativeToolTip": "async_api\\async_api.cu",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAD0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-06T13:11:49.338Z",
+              "WhenOpened": "2024-08-06T20:04:49.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "range.hpp",
+              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\c\u002B\u002B11_cuda\\range.hpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B11_cuda\\range.hpp",
+              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\c\u002B\u002B11_cuda\\range.hpp",
+              "RelativeToolTip": "c\u002B\u002B11_cuda\\range.hpp",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAIwBYBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-06T19:54:45.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "c\u002B\u002B11_cuda.cu",
+              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\c\u002B\u002B11_cuda\\c\u002B\u002B11_cuda.cu",
+              "RelativeDocumentMoniker": "c\u002B\u002B11_cuda\\c\u002B\u002B11_cuda.cu",
+              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\c\u002B\u002B11_cuda\\c\u002B\u002B11_cuda.cu",
+              "RelativeToolTip": "c\u002B\u002B11_cuda\\c\u002B\u002B11_cuda.cu",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-06T19:54:22.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\simple_occupancy\\kernel.cu",
+              "RelativeDocumentMoniker": "simple_occupancy\\kernel.cu",
+              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\simple_occupancy\\kernel.cu",
+              "RelativeToolTip": "simple_occupancy\\kernel.cu",
+              "ViewState": "AQIAALIAAAAAAAAAAAAAAOYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-06T19:31:01.784Z",
               "EditorCaption": ""
             }
           ]
