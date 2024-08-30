@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\dev\\cisc701\\cisc701-cuda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EBB3B5F-8920-4249-886C-FDA75C98EC75}|matrixMulDrv\\matrixMulDrv.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\matrixMulDrv\\matrixMulDrv.cpp||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3EBB3B5F-8920-4249-886C-FDA75C98EC75}|matrixMulDrv\\matrixMulDrv.vcxproj|solutionrelative:matrixMulDrv\\matrixMulDrv.cpp||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{2F43BDB2-D106-44A6-98DF-F6856281540B}|cpp_console_example\\cpp_console_example.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\cpp_console_example\\hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F43BDB2-D106-44A6-98DF-F6856281540B}|cpp_console_example\\cpp_console_example.vcxproj|solutionrelative:cpp_console_example\\hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBB3B5F-8920-4249-886C-FDA75C98EC75}|matrixMulDrv\\matrixMulDrv.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\matrixMulDrv\\matrixMul_kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3EBB3B5F-8920-4249-886C-FDA75C98EC75}|matrixMulDrv\\matrixMulDrv.vcxproj|solutionrelative:matrixMulDrv\\matrixMul_kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{2F43BDB2-D106-44A6-98DF-F6856281540B}|cpp_console_example\\cpp_console_example.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\cpp_console_example\\cpp_console_example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F43BDB2-D106-44A6-98DF-F6856281540B}|cpp_console_example\\cpp_console_example.vcxproj|solutionrelative:cpp_console_example\\cpp_console_example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3EBB3B5F-8920-4249-886C-FDA75C98EC75}|matrixMulDrv\\matrixMulDrv.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\matrixMulDrv\\matrixMul.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3EBB3B5F-8920-4249-886C-FDA75C98EC75}|matrixMulDrv\\matrixMulDrv.vcxproj|solutionrelative:matrixMulDrv\\matrixMul.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{417AFE91-CB4F-4DAD-8B91-1A3574516698}|nvcc_example\\nvcc_example.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\nvcc_example\\b.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{417AFE91-CB4F-4DAD-8B91-1A3574516698}|nvcc_example\\nvcc_example.vcxproj|solutionrelative:nvcc_example\\b.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417AFE91-CB4F-4DAD-8B91-1A3574516698}|nvcc_example\\nvcc_example.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\nvcc_example\\b.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{417AFE91-CB4F-4DAD-8B91-1A3574516698}|nvcc_example\\nvcc_example.vcxproj|solutionrelative:nvcc_example\\b.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417AFE91-CB4F-4DAD-8B91-1A3574516698}|nvcc_example\\nvcc_example.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\nvcc_example\\a.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{417AFE91-CB4F-4DAD-8B91-1A3574516698}|nvcc_example\\nvcc_example.vcxproj|solutionrelative:nvcc_example\\a.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCB4379-0116-4D9F-9387-5BBBED7270E4}|clock\\clock.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\clock\\clock.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1CCB4379-0116-4D9F-9387-5BBBED7270E4}|clock\\clock.vcxproj|solutionrelative:clock\\clock.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "matrixMul.h",
-              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\matrixMulDrv\\matrixMul.h",
-              "RelativeDocumentMoniker": "matrixMulDrv\\matrixMul.h",
-              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\matrixMulDrv\\matrixMul.h",
-              "RelativeToolTip": "matrixMulDrv\\matrixMul.h",
-              "ViewState": "AQIAABsAAAAAAAAAAAAuwBIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-08-07T11:40:09.293Z",
+              "DocumentIndex": 0,
+              "Title": "hello_world.cpp",
+              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\cpp_console_example\\hello_world.cpp",
+              "RelativeDocumentMoniker": "cpp_console_example\\hello_world.cpp",
+              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\cpp_console_example\\hello_world.cpp",
+              "RelativeToolTip": "cpp_console_example\\hello_world.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T11:09:45.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "matrixMul_kernel.cu",
-              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\matrixMulDrv\\matrixMul_kernel.cu",
-              "RelativeDocumentMoniker": "matrixMulDrv\\matrixMul_kernel.cu",
-              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\matrixMulDrv\\matrixMul_kernel.cu",
-              "RelativeToolTip": "matrixMulDrv\\matrixMul_kernel.cu",
-              "ViewState": "AQIAADQAAAAAAAAAAAAewCQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-07T11:33:05.308Z",
+              "Title": "cpp_console_example.cpp",
+              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\cpp_console_example\\cpp_console_example.cpp",
+              "RelativeDocumentMoniker": "cpp_console_example\\cpp_console_example.cpp",
+              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\cpp_console_example\\cpp_console_example.cpp*",
+              "RelativeToolTip": "cpp_console_example\\cpp_console_example.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T10:15:02.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "matrixMulDrv.cpp",
-              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\matrixMulDrv\\matrixMulDrv.cpp",
-              "RelativeDocumentMoniker": "matrixMulDrv\\matrixMulDrv.cpp",
-              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\matrixMulDrv\\matrixMulDrv.cpp",
-              "RelativeToolTip": "matrixMulDrv\\matrixMulDrv.cpp",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAmwHMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-07T11:31:14.042Z",
+              "DocumentIndex": 5,
+              "Title": "clock.cu",
+              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\clock\\clock.cu",
+              "RelativeDocumentMoniker": "clock\\clock.cu",
+              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\clock\\clock.cu",
+              "RelativeToolTip": "clock\\clock.cu",
+              "ViewState": "AQIAADAAAAAAAAAAAAAuwEMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-30T09:06:38.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "b.cu",
+              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\nvcc_example\\b.cu",
+              "RelativeDocumentMoniker": "nvcc_example\\b.cu",
+              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\nvcc_example\\b.cu",
+              "RelativeToolTip": "nvcc_example\\b.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-29T12:09:39.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "b.h",
+              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\nvcc_example\\b.h",
+              "RelativeDocumentMoniker": "nvcc_example\\b.h",
+              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\nvcc_example\\b.h",
+              "RelativeToolTip": "nvcc_example\\b.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-29T12:08:55.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "a.cu",
+              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\nvcc_example\\a.cu",
+              "RelativeDocumentMoniker": "nvcc_example\\a.cu",
+              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\nvcc_example\\a.cu",
+              "RelativeToolTip": "nvcc_example\\a.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-29T12:08:03.683Z",
               "EditorCaption": ""
             }
           ]
