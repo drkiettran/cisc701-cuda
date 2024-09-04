@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\dev\\cisc701\\cisc701-cuda\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28D4835D-A4DC-4B03-9AE6-662420E9BB5F}|Misc-Projects\\easy_cuda_1\\easy_cuda_1.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\Misc-Projects\\easy_cuda_1\\add.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{28D4835D-A4DC-4B03-9AE6-662420E9BB5F}|Misc-Projects\\easy_cuda_1\\easy_cuda_1.vcxproj|solutionrelative:Misc-Projects\\easy_cuda_1\\add.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCB4379-0116-4D9F-9387-5BBBED7270E4}|Misc-Projects\\clock\\clock.vcxproj|C:\\dev\\cisc701\\cisc701-cuda\\Misc-Projects\\clock\\clock.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1CCB4379-0116-4D9F-9387-5BBBED7270E4}|Misc-Projects\\clock\\clock.vcxproj|solutionrelative:Misc-Projects\\clock\\clock.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clock.cu",
+              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\Misc-Projects\\clock\\clock.cu",
+              "RelativeDocumentMoniker": "Misc-Projects\\clock\\clock.cu",
+              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\Misc-Projects\\clock\\clock.cu",
+              "RelativeToolTip": "Misc-Projects\\clock\\clock.cu",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAG8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-04T10:23:01.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "add.cu",
+              "DocumentMoniker": "C:\\dev\\cisc701\\cisc701-cuda\\Misc-Projects\\easy_cuda_1\\add.cu",
+              "RelativeDocumentMoniker": "Misc-Projects\\easy_cuda_1\\add.cu",
+              "ToolTip": "C:\\dev\\cisc701\\cisc701-cuda\\Misc-Projects\\easy_cuda_1\\add.cu",
+              "RelativeToolTip": "Misc-Projects\\easy_cuda_1\\add.cu",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAuwIIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-04T10:17:55.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

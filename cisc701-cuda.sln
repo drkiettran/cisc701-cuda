@@ -37,6 +37,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module-1-Fundamentals", "Mo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Misc-Projects", "Misc-Projects", "{FEBDCB0B-3997-45F3-AD07-80C0BB951ECD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module-2-Memory", "Module-2-Memory", "{99C99D35-2978-49DD-BC51-C0C23AB41BB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module-3-Streams-Concurrency", "Module-3-Streams-Concurrency", "{B8AC602C-0C57-49E0-BBA8-6705E3F9B626}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module-4-Tuning", "Module-4-Tuning", "{3D6C0A12-D78E-4680-A857-9CC8559411AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module-5-OpenACC-OpenMP", "Module-5-OpenACC-OpenMP", "{01ACE598-0FD8-40F7-A975-2CAEF0A2DC5A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module-6-Advanced-Topics", "Module-6-Advanced-Topics", "{2F029932-483C-47C3-BF81-ABF92A698549}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "easy_cuda_1", "Misc-Projects\easy_cuda_1\easy_cuda_1.vcxproj", "{28D4835D-A4DC-4B03-9AE6-662420E9BB5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -165,6 +177,14 @@ Global
 		{2F43BDB2-D106-44A6-98DF-F6856281540B}.Release|x64.Build.0 = Release|x64
 		{2F43BDB2-D106-44A6-98DF-F6856281540B}.Release|x86.ActiveCfg = Release|Win32
 		{2F43BDB2-D106-44A6-98DF-F6856281540B}.Release|x86.Build.0 = Release|Win32
+		{28D4835D-A4DC-4B03-9AE6-662420E9BB5F}.Debug|x64.ActiveCfg = Debug|x64
+		{28D4835D-A4DC-4B03-9AE6-662420E9BB5F}.Debug|x64.Build.0 = Debug|x64
+		{28D4835D-A4DC-4B03-9AE6-662420E9BB5F}.Debug|x86.ActiveCfg = Debug|x64
+		{28D4835D-A4DC-4B03-9AE6-662420E9BB5F}.Debug|x86.Build.0 = Debug|x64
+		{28D4835D-A4DC-4B03-9AE6-662420E9BB5F}.Release|x64.ActiveCfg = Release|x64
+		{28D4835D-A4DC-4B03-9AE6-662420E9BB5F}.Release|x64.Build.0 = Release|x64
+		{28D4835D-A4DC-4B03-9AE6-662420E9BB5F}.Release|x86.ActiveCfg = Release|x64
+		{28D4835D-A4DC-4B03-9AE6-662420E9BB5F}.Release|x86.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -185,6 +205,7 @@ Global
 		{9EC5B843-8689-40A1-B337-D67FDD115AE6} = {FEBDCB0B-3997-45F3-AD07-80C0BB951ECD}
 		{417AFE91-CB4F-4DAD-8B91-1A3574516698} = {71646C9D-A3D5-4182-AA5F-8D4B89D65E96}
 		{2F43BDB2-D106-44A6-98DF-F6856281540B} = {71646C9D-A3D5-4182-AA5F-8D4B89D65E96}
+		{28D4835D-A4DC-4B03-9AE6-662420E9BB5F} = {FEBDCB0B-3997-45F3-AD07-80C0BB951ECD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {015BCC71-505C-4ADE-849B-423E99C81AF0}
